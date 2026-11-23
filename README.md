@@ -17,8 +17,20 @@ Hi, I'm Parul Sharma, a beginner Frontend Developer passionate about web develop
 - Contact section
 - Responsive design
 
-## Project Purpose
-This project was created to showcase my frontend development skills and learning journey.
+## Project Setup Instructions 
+1. Download or clone this respository.
+2. Open the project folder in VS code.
+3. Open the 'index.html' file in your browser.
+4. Explore the portfolio website.
+
+ ## Project Structure 
+ - index.html
+ - style.css
+ - script.js
+
+## GitHub Respository
+https://github.com/codewith-sharma88/my-portfolio
+
 
 ## Author
 Parul Sharma
