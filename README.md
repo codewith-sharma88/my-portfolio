@@ -7,13 +7,13 @@ Hi, I'm Parul Sharma, a beginner Frontend Developer passionate about web develop
 
 ## Technologies Used
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## Features
 - Personal introduction
 - Skills section
-- Projects showcase
+- Projects 
 - Contact section
 - Responsive design
 
